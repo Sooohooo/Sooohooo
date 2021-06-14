@@ -7,8 +7,6 @@
   <a href="https://twitter.com/">Twitter</a> |
   <a href="https://github.com/Sooohooo">Github</a>
   <br><br>
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/939465072079337699/A44A2D24BB987267F26C56440F51A0B468481222/">
-  <br><br>
   <img src="https://steamuserimages-a.akamaihd.net/ugc/789752630934567244/56871DF0ADAA40259E3B954C858DAE6C0806A57B/">
   <br><br>
   <img src="https://discord.c99.nl/widget/theme-4/215530077373464576.png">
