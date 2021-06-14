@@ -9,7 +9,7 @@
   <br><br>
   <img src="https://steamuserimages-a.akamaihd.net/ugc/939465072079337699/A44A2D24BB987267F26C56440F51A0B468481222/">
   <br><br>
-  <img src="https://discord.c99.nl/widget/theme-4/793810464156811323.png">
+  <img src="https://discord.c99.nl/widget/theme-4/215530077373464576.png">
 </p>
 
 #
@@ -47,11 +47,11 @@
 #
 <h1 align="center">STATS FOR NERDS</h1>
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Its-Vichy?style=social">
-  <img src="https://img.shields.io/github/stars/Its-Vichy?style=social">
-  <img src="https://komarev.com/ghpvc/?username=Its-Vichy&color=blue">
+  <img src="https://img.shields.io/github/followers/Sooohooo?style=social">
+  <img src="https://img.shields.io/github/stars/Sooohooo?style=social">
+  <img src="https://komarev.com/ghpvc/?username=Sooohooo&color=blue">
 </p>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Its-Vichy&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Its-Vichy's stats" /> </p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sooohooo&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Its-Vichy's stats" /> </p>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Vichy&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sooohooo&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></p>
