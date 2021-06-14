@@ -3,9 +3,9 @@
 <p align="center">
   <b>🖤 Follow me here:</b><br>
   <a href="https://dsc.gg/rca">Discord</a> |
-  <a href="https://www.youtube.com/channel/UC09GPm24_rdeOXa5KOmhDnw">YouTube</a> |
-  <a href="https://twitter.com/its_vichy">Twitter</a> |
-  <a href="https://github.com/Its-Vichy">Github</a>
+  <a href="https://www.youtube.com/">YouTube</a> |
+  <a href="https://twitter.com/">Twitter</a> |
+  <a href="https://github.com/Sooohooo">Github</a>
   <br><br>
   <img src="https://steamuserimages-a.akamaihd.net/ugc/939465072079337699/A44A2D24BB987267F26C56440F51A0B468481222/">
   <br><br>
@@ -15,7 +15,7 @@
 #
 ```diff
 👤 >> 21 years old, french developper.
-🗣️ >> Its_Vichy@protonmail.com
+🗣️ >> Sooohooo@protonmail.com
 🐺 >> Learn Python, React, VueJS
 ```
 #
