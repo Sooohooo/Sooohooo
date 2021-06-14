@@ -9,7 +9,7 @@
   <br><br>
   <img src="https://steamuserimages-a.akamaihd.net/ugc/939465072079337699/A44A2D24BB987267F26C56440F51A0B468481222/">
   <br><br>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.casetophono.com%2F2018%2F03%2Fmorning-sun.html&psig=AOvVaw2-kV057HhgdTJQ0np8urD8&ust=1623795888189000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPi1n52VmPECFQAAAAAdAAAAABAI">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/789752630934567244/56871DF0ADAA40259E3B954C858DAE6C0806A57B/">
   <br><br>
   <img src="https://discord.c99.nl/widget/theme-4/215530077373464576.png">
 </p>
