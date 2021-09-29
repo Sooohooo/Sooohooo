@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>🖤 Follow me here:</b><br>
-  <a href="https://dsc.gg/rca">Discord</a> |
+  <a href="https://discord.com/">Discord</a> |
   <a href="https://www.youtube.com/">YouTube</a> |
   <a href="https://twitter.com/">Twitter</a> |
   <a href="https://github.com/Sooohooo">Github</a>
