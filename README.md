@@ -35,7 +35,7 @@
   <code><img height="25" src="https://media.discordapp.net/attachments/795241931621924865/830929328728178708/ufdFD0CAiQAAAABJRU5ErkJggg.png"></code>&nbsp; |
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>&nbsp; |
   <code><img height="25" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png"></code>&nbsp;
-  <code><img height="25" src="https://solidity-fr.readthedocs.io/fr/latest/_images/logo.svg"></code>&nbsp;
+  <code><img height="25" src="https://www.ocamlpro.com/blog/assets/img/solidity-cover.png"></code>&nbsp;
 </p>
 
 <h1 align="center">FRAMEWORK</h1>
