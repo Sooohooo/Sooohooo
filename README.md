@@ -39,7 +39,7 @@
 
 <p align="center"> 
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp; |
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"></code>&nbsp; |
+  <code><img height="25" src="https://www.pinclipart.com/picdir/middle/537-5374089_react-js-logo-clipart.png"></code>&nbsp; |
   <code><img height="25" src="https://www.vincenthouba.com/assets/img/flask-logo.409c7035.jpg"></code>&nbsp; |
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/langfr-220px-.NET_Logo.svg.png"></code>&nbsp;
 </p>
