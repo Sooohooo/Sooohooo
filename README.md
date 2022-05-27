@@ -1,11 +1,6 @@
 <h1 align="center">HELLO WORLD</h1>
 
 <p align="center">
-  <b>🖤 Follow me here:</b><br>
-  <a href="https://discord.com/">Discord</a> |
-  <a href="https://www.youtube.com/">YouTube</a> |
-  <a href="https://twitter.com/">Twitter</a> |
-  <a href="https://github.com/Sooohooo">Github</a>
   <br><br>
   <img src="https://steamuserimages-a.akamaihd.net/ugc/789752630934567244/56871DF0ADAA40259E3B954C858DAE6C0806A57B/">
   <br><br>
