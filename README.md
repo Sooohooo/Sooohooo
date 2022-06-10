@@ -11,7 +11,7 @@
 ```diff
 👤 >> 22 years old, french developper.
 🗣️ >> Sooohooo@protonmail.com
-🐺 >> Learn Python, React, C
+🐺 >> Learn React, Python, C.
 ```
 #
 <h1 align="center">LANGUAGE</h1>
