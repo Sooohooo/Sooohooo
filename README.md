@@ -55,11 +55,8 @@
 </p>
 
 <p align="center">
-  <br><br>
   <p align="center">All my repositories are private so you can't see my contributions. I'll be happy to screenshare it to you if needed.</p>
-  <br><br>
   <img src="https://i.imgur.com/pxhUWvQ.png">
-  <br><br>
   <img src="https://i.imgur.com/Uokr7H7.png">
 </p>
 
