@@ -56,9 +56,11 @@
 
 <p align="center">
   <br><br>
-  <img src="https://i.imgur.com/4YfNG9W.jpeg">
+  <p align="center">All my repositories are private so you can't see my contributions. I'll be happy to screenshare it to you if needed.</p>
   <br><br>
-  <img src="https://discord.c99.nl/widget/theme-4/215530077373464576.png">
+  <img src="https://i.imgur.com/pxhUWvQ.png">
+  <br><br>
+  <img src="https://i.imgur.com/Uokr7H7.png">
 </p>
 
 <!-- <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sooohooo&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Its-Vichy's stats" /> </p>
