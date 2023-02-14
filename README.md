@@ -17,7 +17,7 @@
 
 #
 
-<h1 align="center">LANGUAGE</h1>
+<h1 align="center">LANGUAGES</h1>
 
 <p align="center"> 
 <code><img height="25" src="https://user-images.githubusercontent.com/44315919/158489278-7412a9fe-7fb6-4acd-9163-10820b7ecf9f.png"></code>&nbsp; |
