@@ -39,9 +39,7 @@
   <code><img height="25" src="https://e7.pngegg.com/pngimages/669/447/png-clipart-redux-react-javascript-freecodecamp-npm-others-miscellaneous-purple-thumbnail.png"></code>&nbsp; |
   <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg"></code>&nbsp; |
   <code><img height="25" src="https://embed.zenn.studio/api/optimize-og-image/2a03fe878f8aebedf12f/https%3A%2F%2Fastro-build.gallerycdn.vsassets.io%2Fextensions%2Fastro-build%2Fastro-vscode%2F0.29.5%2F1674497697282%2FMicrosoft.VisualStudio.Services.Icons.Default"></code>&nbsp; |
-  <code><img height="25" src="https://img2.freepng.fr/20180816/vxt/kisspng-computer-icons-php-portable-network-graphics-logo-amp-quot-php-5b74f7e6e553d8.7282283915343922949393.jpg"></code>&nbsp; |
-  <code><img height="25" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png"></code>&nbsp; |
-    <code><img height="25" src="https://www.vincenthouba.com/assets/img/flask-logo.409c7035.jpg"></code>&nbsp;
+  <code><img height="25" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png"></code>&nbsp;
 </p>
 
 #
