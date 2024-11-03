@@ -46,8 +46,6 @@
 
 <h1 align="center">STATS FOR NERDS</h1>
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Sooohooo?style=social">
-  <img src="https://img.shields.io/github/stars/Sooohooo?style=social">
   <img src="https://komarev.com/ghpvc/?username=Sooohooo&color=blue">
 </p>
 
