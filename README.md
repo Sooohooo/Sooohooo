@@ -1,12 +1,5 @@
 <h1 align="center">HELLO WORLD</h1>
 
-<p align="center">
-  <br><br>
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/789752630934567244/56871DF0ADAA40259E3B954C858DAE6C0806A57B/">
-  <br><br>
-  <img src="https://discord.c99.nl/widget/theme-4/215530077373464576.png">
-</p>
-
 #
 
 ```diff
@@ -16,6 +9,11 @@
 ```
 
 #
+
+<p align="center">
+  <br><br>
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/789752630934567244/56871DF0ADAA40259E3B954C858DAE6C0806A57B/">
+</p>
 
 <h1 align="center">LANGUAGES</h1>
 
