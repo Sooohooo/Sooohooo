@@ -1,7 +1,5 @@
 <h1 align="center">HELLO WORLD</h1>
 
-#
-
 ```diff
 👤 >> 24 years old, french developper.
 🗣️ >> sdmtaaraujo@gmail.com
@@ -14,6 +12,8 @@
   <br><br>
   <img src="https://steamuserimages-a.akamaihd.net/ugc/789752630934567244/56871DF0ADAA40259E3B954C858DAE6C0806A57B/">
 </p>
+
+#
 
 <h1 align="center">LANGUAGES</h1>
 
