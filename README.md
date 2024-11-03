@@ -10,9 +10,9 @@
 #
 
 ```diff
-👤 >> 23 years old, french developper.
-🗣️ >> Sooohooo@protonmail.com
-🐺 >> Full-Stack React JS.
+👤 >> 24 years old, french developper.
+🗣️ >> sdmtaaraujo@gmail.com
+🐺 >> Experienced front-end React.js.
 ```
 
 #
