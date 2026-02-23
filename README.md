@@ -1,9 +1,9 @@
 <h1 align="center">HELLO WORLD</h1>
 
 ```diff
-👤 >> 24 years old, french developper.
+👤 >> 26 years old, french developper.
 🗣️ >> sdmtaaraujo@gmail.com
-🐺 >> Experienced front-end React.js.
+🐺 >> Experienced full stack oriented React.js.
 ```
 
 #
