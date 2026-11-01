@@ -19,6 +19,11 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,tailwind&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
+
 <h2 align="center">🧰 TOOLS & PLATFORMS</h2>
 
 <p align="center">
